@@ -1,0 +1,24 @@
+body:not(.rtl) .elementor-7053 .elementor-element.elementor-element-6179604 .elementor-drop-cap{margin-right:10px;}body.rtl .elementor-7053 .elementor-element.elementor-element-6179604 .elementor-drop-cap{margin-left:10px;}.elementor-7053 .elementor-element.elementor-element-6179604 > .elementor-widget-container{margin:0px 0px -37px 0px;}.section-masthead .section-masthead__background img.of-cover{object-position:50% 50%;}.section-masthead .section-masthead__overlay:before{opacity:0.2;}@media(max-width:1024px){.section-masthead .section-masthead__background img.of-cover{object-position:50% 50%;}}@media(max-width:767px){.elementor-7053 .elementor-element.elementor-element-6179604 > .elementor-widget-container{margin:0px 0px -40px 0px;}.section-masthead .section-masthead__background img.of-cover{object-position:50% 50%;}}/* Start custom CSS for section, class: .elementor-element-661cd49 *//* Section blog  col post */
+.section-blog .section-blog__col-post{
+	left:150px;
+}
+
+/* 1280px and smaller screen sizes */
+@media (max-width:1280px){
+
+	/* Section blog  col post */
+	.section-blog .section-blog__col-post{
+		left:0px;
+	}
+	
+}
+
+/* 479px and smaller screen sizes */
+@media (max-width:479px){
+
+	/* Section blog  col post */
+	.section-blog .section-blog__col-post{
+		
+	}
+	
+}/* End custom CSS */

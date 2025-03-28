@@ -1,0 +1,24 @@
+.elementor-6421 .elementor-element.elementor-element-241f559{text-align:center;}.elementor-6421 .elementor-element.elementor-element-241f559 .elementor-heading-title{font-size:51px;}body:not(.rtl) .elementor-6421 .elementor-element.elementor-element-08a340a .elementor-drop-cap{margin-right:10px;}body.rtl .elementor-6421 .elementor-element.elementor-element-08a340a .elementor-drop-cap{margin-left:10px;}.elementor-6421 .elementor-element.elementor-element-08a340a > .elementor-widget-container{margin:0px 0px -37px 0px;}.elementor-6421 .elementor-element.elementor-element-d774221 .elementor-heading-title{font-size:33px;font-weight:bold;}.elementor-6421 .elementor-element.elementor-element-e386773 .elementor-heading-title{font-size:33px;font-weight:bold;}.section-masthead .section-masthead__background img.of-cover{object-position:50% 50%;}.section-masthead .section-masthead__overlay:before{opacity:0.2;}@media(max-width:1024px){.section-masthead .section-masthead__background img.of-cover{object-position:50% 50%;}}@media(max-width:767px){.elementor-6421 .elementor-element.elementor-element-08a340a > .elementor-widget-container{margin:0px 0px -40px 0px;}.section-masthead .section-masthead__background img.of-cover{object-position:50% 50%;}}/* Start custom CSS for section, class: .elementor-element-946dcb3 *//* Section blog  col post */
+.section-blog .section-blog__col-post{
+	left:150px;
+}
+
+/* 1280px and smaller screen sizes */
+@media (max-width:1280px){
+
+	/* Section blog  col post */
+	.section-blog .section-blog__col-post{
+		left:0px;
+	}
+	
+}
+
+/* 479px and smaller screen sizes */
+@media (max-width:479px){
+
+	/* Section blog  col post */
+	.section-blog .section-blog__col-post{
+		
+	}
+	
+}/* End custom CSS */
